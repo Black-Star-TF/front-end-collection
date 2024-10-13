@@ -3,23 +3,12 @@
 layout: home
 
 hero:
-  name: "Front End Collection"
-  text: "前端知识合集"
-  tagline: My great project tagline
+  name: "前端知识合集"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 知识合集
+      link: /knowledge
     - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: 面试题大全
+      link: /questions
 ---
-
